@@ -1,8 +1,0 @@
-<meta>
-    <info author="AimPro" name="F10" type="script" version="1.0" />
-
-    <script src="clean.lua" type="client" />
-
-    <file src="image.png" />
-    <file src="music.wav" />
-</meta>
